@@ -51,3 +51,8 @@ border-radius: 0 20px 20px 0;
 background: #243c4f;
 color: #fff;
 }
+
+.modal-backdrop {
+    height: 100%;
+    width: 100%;
+}
